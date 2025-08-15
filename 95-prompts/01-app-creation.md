@@ -1,7 +1,7 @@
 > This is a placeholder prompt to help you generate the first version of your app. Replace it with your own prompt when you're ready to build.
 >
 > Guidance:
-> - Reference your design draft in `95-design/01-app-design.md`.
+> - Reference your design draft in `90-design/01-app-design.md`.
 > - Specify the desired tech stack (or allow the AI to propose one).
 > - Ask the AI to scaffold the app into `10-app/`.
 > - Prefer small iterations: generate, run, review, and refine.

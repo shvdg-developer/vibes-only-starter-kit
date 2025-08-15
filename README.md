@@ -6,7 +6,7 @@ A minimal starter kit to help you use AI to ideate, design, and scaffold your ap
 
 ## How to use
 
-- Write a concept in `95-design/01-app-design.md` with ideas and features
-- Write a prompt in `90-prompts/01-app-creation.md` with implementation details
+- Write a concept in `90-design/01-app-design.md` with ideas and features
+- Write a prompt in `95-prompts/01-app-creation.md` with implementation details
 - Execute prompt to create an app under `10-app/`
 - Iterate as you please
