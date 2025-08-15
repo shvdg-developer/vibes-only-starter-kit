@@ -1,1 +1,8 @@
-* Dump your raw thoughts here about the kind of app you want to make. An idea or concept will suffice, you can refine and iterate upon it in this document by prompting the AI.
+> This document is a placeholder for your design brief. Replace it with your own notes and iterate as you go.
+>
+> Consider capturing:
+> - Problem statement and goals
+> - Target users and key use cases
+> - Core features (MVP)
+>
+> Keep it sipmle; refine and expand on it as you see fit.

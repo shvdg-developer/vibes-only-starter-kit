@@ -1,2 +1,10 @@
-* Construct a prompt that creates the app, according to your 01-app-design.md and your desired technologies (if any). Dump any specifications you find important for implementation and iterate on the plan using the AI. Mention that the app should be build in the 10-app directory for example.
-* TIP: if you know what tech stack you want to use, you could opt to initalize the 'hello world' variant of that app first. For example, for a web app use: https://tailwindcss.com/docs/installation/using-vite. That way the AI can more easily implement it since it will recognize the strucutre and dependencies. This will also reduce the amount of tasks the AI has to perform on the command line by itself, as some steps sometimes require manual input. But you are free to use what you fancy.
+> This is a placeholder prompt to help you generate the first version of your app. Replace it with your own prompt when you're ready to build.
+>
+> Guidance:
+> - Reference your design draft in `95-design/01-app-design.md`.
+> - Specify the desired tech stack (or allow the AI to propose one).
+> - Ask the AI to scaffold the app into `10-app/`.
+> - Prefer small iterations: generate, run, review, and refine.
+>
+> Tip:
+> - If you already know your stack, bootstrap a "hello world" first, for example, use: [Tailwind + Vite](`https://tailwindcss.com/docs/installation/using-vite`). This benefits you in two ways: 1.) you can confirm that you are able to run the app before altering it with AI, and 2.) the AI recognizes the structure and dependencies, which is then easier to expand upon, allowing it to focuss on the features.
