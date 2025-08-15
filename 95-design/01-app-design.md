@@ -1,0 +1,1 @@
+* Dump your raw thoughts here about the kind of app you want to make. An idea or concept will suffice, you can refine and iterate upon it in this document by prompting the AI.
